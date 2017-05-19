@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					DAB1C61F1ECF2C0B00FEDD6C = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = GWKN9VCM62;
 						ProvisioningStyle = Automatic;
 					};
 					DAB1C63B1ECF2C0E00FEDD6C = {
@@ -430,6 +431,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GWKN9VCM62;
 				INFOPLIST_FILE = MoveToAnotherController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = logicprog.MoveToAnotherController;
@@ -441,6 +443,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GWKN9VCM62;
 				INFOPLIST_FILE = MoveToAnotherController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = logicprog.MoveToAnotherController;
